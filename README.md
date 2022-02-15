@@ -1,2 +1,2 @@
 # ProcessManager
-the eclipse plug-in for managing processes
+a eclipse plug-in for managing processes
